@@ -1,4 +1,4 @@
-# Regerx Tutorial - Email Matching Validation
+# Regex Tutorial - Email Matching Validation
 
 A regular expression, or regex, is a search pattern used by developers. In the tutorial, you’ll understand the break down of each part of the expression and describe what it does for email validation. 
 
